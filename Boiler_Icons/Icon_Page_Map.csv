@@ -1,0 +1,49 @@
+﻿번호,용어,첫 등장(새 PPT),원본 PDF,추천 위치,재사용 페이지,파일
+01,저항식 보일러,2,39,2p ‘전기보일러(저항식)’ 제목 옆. 7p 장단점에서 재사용,"7, 8",images/01_Resistance_Boiler.png
+02,전극식 보일러,2,39,2p ‘전극보일러’ 제목 옆. 7p 전극식 장단점에서 재사용,"7, 8, 9",images/02_Electrode_Boiler.png
+03,스케일,3,39,3p 비교표 ‘스케일’ 행 옆. 4p 칼슘·마그네슘 스케일 설명에 재사용,"4, 7",images/03_Scale_Deposit.png
+04,시스·절연재,4,40,4p ‘열선 → 물 전달 손실’의 시스·절연재 문장 옆,,images/04_Heater_Sheath.png
+05,압력 릴리프 밸브,4,40,4p ‘대기·배기 손실’ 설명 옆,,images/05_Pressure_Relief_Valve.png
+06,팽창탱크,4,40,4p ‘대기·배기 손실’의 팽창탱크 옆. 25p 구성설비에서 재사용,25,images/06_Expansion_Tank.png
+07,펌프(순환·가압·급수 공통),4,40,"4p ‘순환펌프’ 옆. 가압펌프는 25p, 급수펌프는 26p·30p에 같은 이미지 재사용","25, 26, 30, 31, 33, 38, 39",images/07_Pump.png
+08,SCR 위상제어,5,41,5p ‘SCR 위상제어’ 제목 옆,,images/08_SCR_Phase_Control.png
+09,SSR 시간비례제어,5,41,5p ‘SSR 시간비례제어’ 제목 옆,,images/09_SSR_Time_Control.png
+10,접촉기(마그네틱 스위치),6,41,6p ‘비용’ 행의 접촉기 옆,,images/10_Contactor.png
+11,전해질·이온,9,43,9p ‘전해질 저항’ 제목 옆. 11p 전해질·이온 설명에서 재사용,"11, 12, 14",images/11_Electrolyte_Ions.png
+12,3상 전원·전극 배치,10,44,10p ‘3상 전극 구조’ 제목 또는 120° 설명 옆,13,images/12_Three_Phase_Electrodes.png
+13,P2H(전력의 열 전환),17,50,17p ‘열저장·P2H’ 항목 옆,"19, 23",images/13_Power_to_Heat.png
+14,튜브형 중성점 전극,18,50,18p ‘3개’ 설명 옆. 20p·24p 중성점 전극에서 재사용,"20, 24, 42",images/14_Tubular_Neutral_Electrodes.png
+15,열교환기,19,51,19p ‘최대 온도’ 행의 열교환기 옆. 25p 구성설비에서 재사용,"22, 25",images/15_Heat_Exchanger.png
+16,Y결선,20,51,20p ‘고정 전극 구조’ 제목 옆. 23p·24p에서 재사용,"23, 24",images/16_Star_Connection.png
+17,차폐판,20,51,20p ‘노출면적·출력 제어’ 설명 옆. 24p ‘차폐판 이동’에서 재사용,24,images/17_Moving_Shield.png
+18,침지형·이중 용기,21,52,21p ‘침지형 구조와 증기 발생’ 제목 옆. 26p·41p에서 재사용,"26, 41",images/18_Immersion_Double_Vessel.png
+19,조절밸브·제어밸브,22,52,22p ‘수위·조절밸브’ 설명 옆. 25p 오버플로밸브와 39p 제어밸브에서 재사용,"25, 39, 45, 46",images/19_Control_Valve.png
+20,표면 블로우다운,22,52,22p ‘전도도 관리’ 설명 옆. 26p에서 재사용,26,images/20_Surface_Blowdown.png
+21,애자,24,53,24p ‘Y결선·중성점 전극’ 설명의 애자 옆,,images/21_Insulator.png
+22,탈염필터,25,54,25p 구성설비 ‘탈염필터’ 옆,,images/22_Demineralization_Filter.png
+23,냉각탱크(시료),25,54,25p 구성설비 ‘냉각탱크(시료)’ 옆,,images/23_Sample_Cooler.png
+24,급수탱크,26,55,26p 플랜트 구성의 급수탱크 옆. 29p 제목 옆에서 재사용,29,images/24_Feedwater_Tank.png
+25,탈기기,26,55,26p 플랜트 구성 ‘탈기기 포함 급수탱크’ 옆. 29p·36p에서 재사용,"29, 36",images/25_Deaerator.png
+26,분리기,26,55,26p 플랜트 구성의 ‘분리기’ 옆,,images/26_Separator.png
+27,분사형 전극보일러,27,55,27p 비교표 ‘분사형’ 열 제목 옆. 51p에서 재사용,"42, 51",images/27_Jet_Electrode_Boiler.png
+28,플로트,30,57,30p ‘On/Off·단순 수위 제어’의 플로트 설명 옆,,images/28_Float_Level_Switch.png
+29,VFD(비례·변속 제어),30,57,30p ‘비례·변속 제어(VFD)’ 제목 옆,,images/29_VFD.png
+30,다단 원심펌프,31,57,31p ‘다단 원심펌프’ 카드 제목 옆,,images/30_Multistage_Pump.png
+31,수직형 펌프,31,57,31p ‘수직형’ 카드 제목 옆. 수평형에는 07번 공통 펌프 사용,,images/31_Vertical_Pump.png
+32,용적식·왕복동 펌프,31,57,31p ‘용적식·왕복동’ 카드 제목 옆,,images/32_Reciprocating_Pump.png
+33,도징 스테이션,34,60,34p 제목 또는 ‘정량 공급’ 설명 옆. 36p 화학적 산소 제거에서 재사용,36,images/33_Dosing_Station.png
+34,계량펌프·도징펌프,34,60,34p 구성요소 ‘계량펌프’ 옆. 36p 도징펌프 설명에서 재사용,36,images/34_Metering_Pump.png
+35,플래시탱크,35,61,35p 제목 또는 ‘감압→플래시 증발’ 설명 옆. 41p·44p에서 재사용,"41, 44",images/35_Flash_Tank.png
+36,워터해머·수격현상,35,61,35p ‘핵심 목적’의 워터해머 옆. 48p 배관 수격현상에서 재사용,48,images/36_Water_Hammer.png
+37,케이지형 전극,41,66,41p 제목 ‘케이지형 전극’ 옆. 42p에서 재사용,42,images/37_Cage_Electrode.png
+38,증기 건도,47,71,47p ‘증기 건도’ 정의 옆,48,images/38_Steam_Dryness.png
+39,캐리오버(Carryover),48,71,48p ‘Carryover’ 소제목 옆,,images/39_Carryover.png
+40,프라이밍(Priming),48,71,48p ‘Priming’ 소제목 옆,,images/40_Priming.png
+07 재사용,가압펌프,25,54,같은 기본 구조의 공통 아이콘 재사용,,images/07_Pump.png
+07 재사용,급수펌프,26,55,같은 기본 구조의 공통 아이콘 재사용,,images/07_Pump.png
+07 재사용,수평형,31,57,같은 기본 구조의 공통 아이콘 재사용,,images/07_Pump.png
+14 재사용,동심 N상 파이프,42,66,같은 기본 구조의 공통 아이콘 재사용,,images/14_Tubular_Neutral_Electrodes.png
+15 재사용,열회수장치,22,52,같은 기본 구조의 공통 아이콘 재사용,,images/15_Heat_Exchanger.png
+19 재사용,오버플로밸브,25,54,같은 기본 구조의 공통 아이콘 재사용,,images/19_Control_Valve.png
+19 재사용,제어밸브,39,64,같은 기본 구조의 공통 아이콘 재사용,,images/19_Control_Valve.png
+34 재사용,도징펌프,36,62,같은 기본 구조의 공통 아이콘 재사용,,images/34_Metering_Pump.png
